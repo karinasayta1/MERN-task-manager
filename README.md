@@ -47,7 +47,3 @@
    docker compose down
    ```
 
-## Contact
-
-- Email: afsk1997@gmail.com
-- Linkedin: https://www.linkedin.com/in/afroz-j-shaikh/
